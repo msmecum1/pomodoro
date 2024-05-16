@@ -34,32 +34,28 @@ def break_timer(minutes):
         time.sleep(1)
         seconds -= 1
     play_sound()  # Play a sound when break time is over
-    print("quit being lazy and go back to work!")
+    print("Quit being lazy and go back to work!")
 
 def main():
     print("I see you need to get some work done")
     
+    # Ask user to populate main_quest_options and side_mission_options
+    main_quest_options = []
+    side_mission_options = []
+    
+    while True:
+        user_input = input("Enter a main quest (or 'done' to finish): ")
+        if user_input.lower() == "done":
+            break
+        main_quest_options.append(user_input)
+    
+    while True:
+        user_input = input("Enter a side mission (or 'done' to finish): ")
+        if user_input.lower() == "done":
+            break
+        side_mission_options.append(user_input)
+
     while True:  # Loop until the user types "quit"
-        # Options for main quest and side mission
-        main_quest_options = [
-            "change of Doc",
-            "Loss of Doc",
-            "Add Key Role",
-            "Change of Key Role",
-            "Gain of Position",
-            "Change of Position",
-
-        ]
-
-        side_mission_options = [
-            "School project",
-            "cloud compliance",
-            "Design Workout Program",
-            "C# Master class",
-            "Clean",
-            
-        ]
-
         # Ask the user to choose between main quest and side mission
         user_choice = input("WHERE DO WE GO FROM HERE i'm feeling it:\n1. Main Quest\n2. Side Mission\nEnter 1 or 2 (or type 'quit' to exit): ")
 
@@ -83,4 +79,7 @@ def main():
             print("No Pomodoro timer started. Get working!")
 
 if __name__ == "__main__":
-    main() 
+    main()
+    
+    #cd source/repos/productive
+    #jdbc:postgresql://localhost:5432/postgres
