@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['C:\\Users\\mecum\\source\\repos\\productive\\quest.py'],
+    ['quest.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -12,6 +12,7 @@ a = Analysis(
     runtime_hooks=[],
     excludes=[],
     noarchive=False,
+    optimize=0,
 )
 pyz = PYZ(a.pure)
 
