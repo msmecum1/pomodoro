@@ -1,9 +1,12 @@
 # Ignore all node_modules directories
 node_modules/
 
-#Ignore log files
+# Ignore log files
 *.log
 
 # Ignore temporary files
 *.tmp
 
+.vscode/
+
+.gitconfig
