@@ -121,6 +121,7 @@ C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-android\P
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-android\Pomodoro.AssemblyInfoInputs.cache
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-android\Pomodoro.AssemblyInfo.cs
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-android\Pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-android\Pomodoro.sourcelink.json
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-android\XamlC.stamp
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-android\Pomodoro.dll
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-android\Pomodoro.pdb

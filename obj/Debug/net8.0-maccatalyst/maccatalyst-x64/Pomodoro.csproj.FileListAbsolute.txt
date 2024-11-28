@@ -292,6 +292,7 @@ C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-maccataly
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Pomodoro.AssemblyInfoInputs.cache
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Pomodoro.AssemblyInfo.cs
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Pomodoro.sourcelink.json
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\XamlC.stamp
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Pomodoro.csproj.Up2Date
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Pomodoro.dll

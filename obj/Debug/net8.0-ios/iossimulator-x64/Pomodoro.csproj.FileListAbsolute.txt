@@ -259,7 +259,6 @@ C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\bin\Debug\net8.0-ios\iossi
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs
@@ -305,6 +304,7 @@ C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossi
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\Pomodoro.AssemblyInfoInputs.cache
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\Pomodoro.AssemblyInfo.cs
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\Pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\Pomodoro.sourcelink.json
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\XamlC.stamp
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\Pomodoro.csproj.Up2Date
 C:\Users\matthew.mecum\source\repos\Pomodoro\Pomodoro\obj\Debug\net8.0-ios\iossimulator-x64\Pomodoro.dll
