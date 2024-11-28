@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Pomodoro.MainPage">
+
+    <StackLayout Padding="20" Spacing="20" BackgroundColor="{StaticResource BackgroundColor}">
+        <Label Text="Pomodoro Timer" FontSize="28" HorizontalOptions="Center" FontAttributes="Bold" />
+        <Button Text="Start Timer" Clicked="OnStartTimerClicked" />
+        <Button Text="Pause Timer" Clicked="OnPauseTimerClicked" />
+        <Button Text="Cancel Timer" Clicked="OnCancelTimerClicked" />
+        <Label x:Name="TimerLabel" Text="00:00:00" FontSize="28" HorizontalOptions="Center" FontAttributes="Bold" />
+
+        <Label Text="TODO List" FontSize="28" HorizontalOptions="Center" Margin="20,0,0,0" FontAttributes="Bold" />
+        <Button Text="See All TODOs" Clicked="OnSeeAllTodosClicked" />
+        <Button Text="Add TODO" Clicked="OnAddTodoClicked" />
+        <Button Text="Remove TODO" Clicked="OnRemoveTodoClicked" />
+        <Button Text="Select Random TODO" Clicked="OnSelectRandomTodoClicked" />
+        <ListView x:Name="TodoListView" IsVisible="False" />
+    </StackLayout>
+</ContentPage>
